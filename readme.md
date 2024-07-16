@@ -20,8 +20,7 @@ HEYBOT is a desktop voice assistant designed to perform various tasks such as te
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/heybot-voice-assistant.git
-    cd heybot-voice-assistant
+    git clone https://github.com/SaiSriramKamineni/HEY-BOT-Voice-Assistant
     ```
 
 2. **Create a Virtual Environment** (optional but recommended):
